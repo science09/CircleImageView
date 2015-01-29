@@ -1,7 +1,7 @@
 # CircleImageView
 自定义圆形的ImageView
 
--最终效果：
+- 最终效果：
 
 ![圆形图片](https://github.com/science09/CircleImageView/blob/master/snap/Screenshot_2015-01-29-00-28-14.png)
 

@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#454545"
+    android:orientation="vertical" >
+    
+    <com.example.circleimageview.CircleImageView
+        xmlns:science="http://schemas.android.com/apk/res/com.example.circleimageview"
+        android:id="@+id/imageview"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="30dp"
+        android:scaleType="centerCrop"
+        science:border_width="2dp"
+        science:border_color="#f2f2f2"
+        android:src="@drawable/mm" />
+    
+    <com.example.circleimageview.CircleImageView
+        xmlns:science="http://schemas.android.com/apk/res/com.example.circleimageview"
+        android:id="@+id/netImage"
+        android:layout_gravity="center"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="30dp"
+        android:scaleType="centerCrop"
+        science:border_width="2dp"
+        science:border_color="#fafafa" />
+
+</LinearLayout>

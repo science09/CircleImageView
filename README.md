@@ -3,7 +3,7 @@
 
 - 最终效果：
 
-![圆形图片](https://github.com/science09/CircleImageView/blob/master/snap/Screenshot_2015-01-29-00-28-14.png)
+<img height="700" width="400" src="https://github.com/science09/CircleImageView/blob/master/snap/Screenshot_2015-01-29-00-28-14.png">
 
 - 使用方法：
 
